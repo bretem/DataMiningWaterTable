@@ -4,7 +4,6 @@ Este repositorio contiene el código y la documentación del proyecto "Predicci�
 ## Descripción general del proyecto:
 El acceso al agua potable es un problema importante en Tanzania, ya que muchas bombas de agua no funcionan o necesitan reparaciones. Este proyecto utiliza un conjunto de datos exhaustivo que contiene varias características relacionadas con las bombas de agua, incluida información geográfica, características de las bombas y detalles de gestión. El objetivo principal es desarrollar modelos predictivos utilizando múltiples técnicas de aprendizaje automático y comparar su rendimiento.
 ## Contenidos del repositorio:
-"report.htlm": Informe del proyecto.
 
 "WaterTable_final.ipynb" : Jupyter Notebook que contiene el código para el análisis de datos, el preprocesamiento y el desarrollo de modelos.
 ## Modelos utilizados:
